@@ -49,3 +49,6 @@ VeriYapilari Ve Algoritmalar Proje
 3-5-7-8-2-9-4-15-6
 
 3-5-7-2-8-9-4-15-6
+
+[Patika Link](https://app.patika.dev/ica)
+
